@@ -1,9 +1,5 @@
 ## Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS
 
-![IMG_3112](https://user-images.githubusercontent.com/9275193/88193050-37bc1100-cc0b-11ea-83ff-171d61f1edb3.jpg)
-![IMG_3115](https://user-images.githubusercontent.com/9275193/88193059-3985d480-cc0b-11ea-8178-a88d002fa1aa.jpg)
-
-
 #### Hardwares you need
 - Raspberry Pi 4 [link](https://www.amazon.com/gp/product/B07TC2BK1X)
 - USBC power adapter [link](https://www.amazon.com/gp/product/B07TYQRXTK)
